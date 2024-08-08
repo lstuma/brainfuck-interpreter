@@ -1,5 +1,5 @@
 # brainfuck-interpreter
-Simple Brainfuck Interpreter
+This is a very simple and minimal [brainfuck](https://en.wikipedia.org/wiki/Brainfuck#Language_design) interpreter, it does not check whether the syntax is actually correct.
 
 ## Compiling
 To compile the interpreter you can run:
